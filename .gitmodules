@@ -1,0 +1,6 @@
+[submodule "realtime-universal-transport"]
+	path = realtime-universal-transport
+	url = git@github.com:gbcpp/realtime-universal-transport.git
+[submodule "rut_cpp_library"]
+	path = rut_cpp_library
+	url = git@github.com:gbcpp/rut_cpp_library.git
