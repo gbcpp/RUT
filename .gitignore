@@ -129,5 +129,5 @@ rut/test/fuzz/**/go.sum
 !.golangci.yml
 
 build.linux/
-build/
+build
 build.osx/
